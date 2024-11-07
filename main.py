@@ -24,7 +24,7 @@ def factorial(n):
 
     return res
 
-print (factorial(12))
+print (factorial(14))
 
 
 
