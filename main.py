@@ -21,6 +21,7 @@ def factorial(n):
     factorial_n_minus_1 = factorial(n=n -1)
     res = n*factorial_n_minus_1
     print(res)
+
     return res
 
 print (factorial(9))
